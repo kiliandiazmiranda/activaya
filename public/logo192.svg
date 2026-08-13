@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.0" width="192.000000pt" height="192.000000pt" viewBox="0 0 192.000000 192.000000" preserveAspectRatio="xMidYMid meet">
+<defs>
+  <linearGradient id="verdeGradiente" x1="0%" y1="0%" x2="0%" y2="100%">
+    <stop offset="0%" style="stop-color:#00C853;stop-opacity:1" />
+    <stop offset="100%" style="stop-color:#2E7D32;stop-opacity:1" />
+  </linearGradient>
+</defs>
+<g transform="translate(0.000000,192.000000) scale(0.100000,-0.100000)" fill="url(#verdeGradiente)" stroke="none">
+<path d="M1111 1598 c-86 -46 -91 -178 -9 -228 133 -81 273 86 169 202 -23 26 -36 32 -82 35 -32 2 -64 -1 -78 -9z"/>
+<path d="M1569 1398 c-8 -7 -28 -32 -43 -55 -44 -67 -97 -97 -175 -101 -77 -4 -135 12 -285 81 -208 96 -348 85 -501 -40 -62 -50 -77 -84 -50 -113 25 -28 37 -25 87 16 90 76 206 105 296 73 l31 -11 -33 -71 c-163 -353 -228 -460 -378 -622 -94 -101 -103 -117 -86 -153 10 -21 21 -28 48 -30 31 -2 44 5 116 72 98 90 205 216 268 314 26 39 48 72 50 72 29 0 210 -81 221 -100 3 -5 -35 -53 -85 -106 -49 -52 -93 -107 -97 -121 -9 -36 8 -57 48 -61 31 -3 44 5 112 65 93 82 173 171 187 207 22 60 -55 144 -183 201 l-58 25 21 38 c12 21 38 60 59 87 l38 50 124 0 c108 0 129 3 164 22 110 58 205 231 146 263 -24 13 -24 13 -42 -2z"/>
+</g>
+</svg>
